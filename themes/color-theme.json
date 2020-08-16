@@ -1,0 +1,20 @@
+{
+    "name": "katcodes",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#0D2B36",
+        "editor.foreground": "#F8F8F2",
+        "sideBar.background": "#0D2B36",
+        "activityBarBadge.background": "#FC537D",
+        "activityBar.background": "#0a1e25",
+        "foreground": "#F8F8F2",
+        "focusBorder": "#F8F8F2",
+        "errorForeground": "#F8F8F2",
+        "statusBar.background": "#65479b",
+        "window.activeBorder": "#0a1e25",
+        "window.inactiveBorder": "#0a1e25",
+        "editorGroupHeader.tabsBackground": "#0a1e25",
+        "tab.inactiveBackground": "#184657"
+    },
+    "tokenColors": "./KatCodes.tmTheme"
+}
