@@ -8,13 +8,20 @@
         "activityBarBadge.background": "#FC537D",
         "activityBar.background": "#0a1e25",
         "foreground": "#F8F8F2",
-        "focusBorder": "#F8F8F2",
+        "focusBorder": "#85E4F5",
         "errorForeground": "#F8F8F2",
         "statusBar.background": "#65479b",
         "window.activeBorder": "#0a1e25",
         "window.inactiveBorder": "#0a1e25",
         "editorGroupHeader.tabsBackground": "#0a1e25",
-        "tab.inactiveBackground": "#184657"
+        "tab.inactiveBackground": "#184657",
+        "list.activeSelectionBackground": "#184657",
+        "list.focusBackground": "#184657",
+        "list.hoverBackground": "#184657",
+        "input.background": "#184657",
+        "editor.findMatchBackground": "#65479b",
+        "editorWidget.background": "#184657",
+        "dropdown.background": "#184657"
     },
     "tokenColors": "./KatCodes.tmTheme"
 }
