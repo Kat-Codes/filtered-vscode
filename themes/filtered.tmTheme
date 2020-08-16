@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>KatCodes</string>
+	<string>Filtered</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -290,8 +290,8 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.dark.filtered</string>
 	<key>author</key>
-	<string>KatCodes</string>
+	<string>katcodes</string>
 </dict>
 </plist>

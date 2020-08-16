@@ -1,5 +1,5 @@
 {
-    "name": "katcodes",
+    "name": "filtered",
     "type": "dark",
     "colors": {
         "editor.background": "#0D2B36",
@@ -23,5 +23,5 @@
         "editorWidget.background": "#184657",
         "dropdown.background": "#184657"
     },
-    "tokenColors": "./KatCodes.tmTheme"
+    "tokenColors": "./filtered.tmTheme"
 }
