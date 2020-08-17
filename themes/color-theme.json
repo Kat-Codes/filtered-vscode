@@ -16,7 +16,7 @@
         "editorGroupHeader.tabsBackground": "#0a1e25",
         "tab.inactiveBackground": "#184657",
         "list.activeSelectionBackground": "#184657",
-        "list.focusBackground": "#184657",
+        "list.focusBackground": "#0a1e25",
         "list.hoverBackground": "#184657",
         "input.background": "#184657",
         "editor.findMatchBackground": "#65479b",
