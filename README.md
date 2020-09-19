@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](logo.png)
+![logo](https://raw.githubusercontent.com/Kat-Codes/filtered-vscode/develop/logo.png)
 
 # Filtered
 
