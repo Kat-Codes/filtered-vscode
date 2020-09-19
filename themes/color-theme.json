@@ -23,8 +23,6 @@
         "editor.findMatchBackground": "#65479b",
         "editorWidget.background": "#184657",
         "dropdown.background": "#184657",
-        "scrollbarSlider.activeBackground": "#61527c",
-        "scrollbarSlider.hoverBackground": "#61527c",
         "terminal.foreground": "#F8F8F2",
         "terminal.ansiBlack": "#1a1817",
         "terminal.ansiBlue": "#70E7FF",
