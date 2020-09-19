@@ -12,6 +12,9 @@
     },
     "icon": "logo.png",
     "description": "A purple-y theme for Visual Studio Code",
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
         "themes": [
             {
