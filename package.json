@@ -9,6 +9,7 @@
         "type": "git",
         "url": "https://github.com/Kat-Codes/filtered-vscode.git"
     },
+    "icon": "logo.png",
     "contributes": {
         "themes": [
             {
