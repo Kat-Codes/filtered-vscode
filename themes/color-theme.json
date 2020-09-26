@@ -27,19 +27,19 @@
         "terminal.ansiBlack": "#1a1817",
         "terminal.ansiBlue": "#70E7FF",
         "terminal.ansiBrightBlack": "#665C54",
-        "terminal.ansiBrightBlue": "#70E7FF",
+        "terminal.ansiBrightBlue": "#AFDDE6",
         "terminal.ansiBrightCyan": "#8BA59B",
         "terminal.ansiBrightGreen": "#a6db92",
         "terminal.ansiBrightMagenta": "#F565E2",
         "terminal.ansiBrightRed": "#FF6391",
         "terminal.ansiBrightWhite": "#F8F8F2",
-        "terminal.ansiBrightYellow": "#C788F0",
+        "terminal.ansiBrightYellow": "#8f7bb4",
         "terminal.ansiCyan": "#8BA59B",
         "terminal.ansiGreen": "#a6db92",
         "terminal.ansiMagenta": "#F565E2",
         "terminal.ansiRed": "#FF6391",
         "terminal.ansiWhite": "#F8F8F2",
-        "terminal.ansiYellow": "#C788F0"
+        "terminal.ansiYellow": "#8f7bb4"
     },
     "tokenColors": "./filtered.tmTheme"
 }

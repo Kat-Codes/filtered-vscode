@@ -1,7 +1,7 @@
 {
     "name": "filtered",
     "displayName": "Filtered Theme",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "engines": {
         "vscode": ">=0.9.0-pre.1"
     },
